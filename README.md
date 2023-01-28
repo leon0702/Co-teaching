@@ -3,5 +3,5 @@ Co-teachingIMDb是自己使用tensorflow2.x和python3.x還原出來的，和來�
 論文來源: B. Han, Q. Yao, X. Yu, G. Niu, M. Xu, W. Hu, I. Tsang, and M. Sugiyama, “Co-teaching: Robust training of deep neural networks with extremely noisy labels,” in Proc. NeurIPS, pp. 8527-8537, 2018.
 # 2. Paper
 附上自己的論文
-# 3. Paerlist
+# 3. Paperlist
 論文清單為就讀碩士班期間閱讀的論文，每一篇都有閱讀過，但有些是較早以前閱讀的。
