@@ -1,6 +1,7 @@
 # 1. Co-teaching
-Co-teachingIMDb是自己使用tensorflow2.x和python3.x還原出來的，和來源論文的環境不一樣，應用的task也不一樣，論文中是用於影像的noise處理，我將此方法應用至文字的noise處理，使用此方法能將本來69%的準確率提升至81%。
-論文來源: B. Han, Q. Yao, X. Yu, G. Niu, M. Xu, W. Hu, I. Tsang, and M. Sugiyama, “Co-teaching: Robust training of deep neural networks with extremely noisy labels,” in Proc. NeurIPS, pp. 8527-8537, 2018.
+The Co-teaching IMDb model was reproduced independently using TensorFlow 2.x and Python 3.x, differing from the original environment described in the source paper, as well as applying it to a different task. While the original paper focused on noise processing in image data, I adapted this method to handle noise in text data. Using this approach improved the accuracy from 69% to 81%.
+
+Source paper: B. Han, Q. Yao, X. Yu, G. Niu, M. Xu, W. Hu, I. Tsang, and M. Sugiyama, “Co-teaching: Robust training of deep neural networks with extremely noisy labels,” in Proc. NeurIPS, pp. 8527-8537, 2018.
 # 2. Paper
-附上自己的論文
+My own thesis is also attached.
 
